@@ -3,7 +3,7 @@
 ## Overview
 This repository contains various projects developed as part of the **Elements of Artificial Intelligence** course. These projects explore different AI techniques, including heuristic methods, large language models (LLMs), K-Nearest Neighbors (K-NN), and variations of classic AI problems with a twist.
 
-## Projects
+## Project
 
 ### 1. Heuristics-Based Search
 - **Description**: Implemented heuristic search techniques such as A* and Greedy Best-First Search.
